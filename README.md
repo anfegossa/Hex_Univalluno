@@ -6,3 +6,4 @@ Recordar:
 - Comentar "las cosas raras" de su codigo xD.
 - Si tomas una tarea ir al proyecto entrea y cambiar las fichas.
 - Holi
+- :)
